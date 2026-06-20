@@ -4,7 +4,7 @@ currently learning robotics, a bit of security, CyberJutsu Academy fanboy.
 
 ```
 $ whoami
-Worker @ Earth — mostly writing C close to the metal.
+Worker @ Earth — mostly 8 to 5
 ```
 
 ### Stack
