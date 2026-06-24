@@ -5,6 +5,7 @@ currently learning robotics, CyberJutsu Academy n ChongLuaDao fanboy.
 ```
 $ whoami
 9-5 Worker @ robotics company
+```
 ### Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
